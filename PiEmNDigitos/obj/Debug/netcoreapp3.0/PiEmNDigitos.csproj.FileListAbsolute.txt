@@ -1,0 +1,11 @@
+C:\Users\Diogo\source\repos\PiEmNDigitos\PiEmNDigitos\bin\Debug\netcoreapp3.0\PiEmNDigitos.exe
+C:\Users\Diogo\source\repos\PiEmNDigitos\PiEmNDigitos\bin\Debug\netcoreapp3.0\PiEmNDigitos.deps.json
+C:\Users\Diogo\source\repos\PiEmNDigitos\PiEmNDigitos\bin\Debug\netcoreapp3.0\PiEmNDigitos.runtimeconfig.json
+C:\Users\Diogo\source\repos\PiEmNDigitos\PiEmNDigitos\bin\Debug\netcoreapp3.0\PiEmNDigitos.runtimeconfig.dev.json
+C:\Users\Diogo\source\repos\PiEmNDigitos\PiEmNDigitos\bin\Debug\netcoreapp3.0\PiEmNDigitos.dll
+C:\Users\Diogo\source\repos\PiEmNDigitos\PiEmNDigitos\bin\Debug\netcoreapp3.0\PiEmNDigitos.pdb
+C:\Users\Diogo\source\repos\PiEmNDigitos\PiEmNDigitos\obj\Debug\netcoreapp3.0\PiEmNDigitos.csprojAssemblyReference.cache
+C:\Users\Diogo\source\repos\PiEmNDigitos\PiEmNDigitos\obj\Debug\netcoreapp3.0\PiEmNDigitos.AssemblyInfoInputs.cache
+C:\Users\Diogo\source\repos\PiEmNDigitos\PiEmNDigitos\obj\Debug\netcoreapp3.0\PiEmNDigitos.AssemblyInfo.cs
+C:\Users\Diogo\source\repos\PiEmNDigitos\PiEmNDigitos\obj\Debug\netcoreapp3.0\PiEmNDigitos.dll
+C:\Users\Diogo\source\repos\PiEmNDigitos\PiEmNDigitos\obj\Debug\netcoreapp3.0\PiEmNDigitos.pdb
